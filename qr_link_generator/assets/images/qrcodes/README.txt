@@ -1,0 +1,1 @@
+The directory where all geneated QR code image will be placed.
