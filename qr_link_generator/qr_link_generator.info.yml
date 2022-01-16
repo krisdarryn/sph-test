@@ -1,0 +1,5 @@
+name: QR Link Generator
+description: Primarily used to generate QR code from Product App link URL.
+package: Product
+type: module
+core_version_requirement: ^8 || ^9
